@@ -4,7 +4,7 @@ Diceware is a method for generating long, secure passphrases that are difficult 
 
 This webpage was inspired and forked from [Stephen Washington's Diceware implementation](http://stephenwashington/diceware).
 
-This project uses defaults to the [wordlist from the Electronic Frontier Foundation (EFF)](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
+This project defaults to the [wordlist from the Electronic Frontier Foundation (EFF)](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 
 For questions about the Diceware method, please visit the [official Diceware page](http://diceawre.com) and [Diceware FAQ](http://world.std.com/%7Ereinhold/dicewarefaq.html).
 
