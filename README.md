@@ -2,7 +2,7 @@
 
 Diceware is a method for generating long, secure passphrases that are difficult to guess, but easier to remember.
 
-This webpage was inspired and forked from [Stephen Washington's Diceware implementation](http://stephenwashington/diceware).
+This project was inspired and forked from [Stephen Washington's Diceware implementation](http://stephenwashington/diceware).
 
 This project defaults to the [Electronic Frontier Foundation (EFF) wordlist](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 
