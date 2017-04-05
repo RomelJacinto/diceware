@@ -6,7 +6,7 @@ This webpage was inspired and forked from [Stephen Washington's Diceware impleme
 
 This project defaults to the [Electronic Frontier Foundation (EFF) wordlist](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 
-For questions about the Diceware method, please visit the [official Diceware page](http://diceawre.com) and [Diceware FAQ](http://world.std.com/%7Ereinhold/dicewarefaq.html).
+For questions about the Diceware method, please visit the [official Diceware page](http://diceware.com) and [Diceware FAQ](http://world.std.com/%7Ereinhold/dicewarefaq.html).
 
 #PRNG Disclaimer
 
