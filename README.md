@@ -6,7 +6,7 @@ This project defaults to the [Electronic Frontier Foundation (EFF) wordlist](htt
 
 For questions about the Diceware method, please visit the [official Diceware page](http://diceware.com) and [Diceware FAQ](http://world.std.com/%7Ereinhold/dicewarefaq.html).
 
-This project was inspired and forked from [Stephen Washington's Diceware implementation](https://stephenwashington.net/diceware/).
+This project was inspired and forked from [Stephen Washington's Diceware project](https://github.com/stephenwashington/diceware).
 
 ### PRNG Disclaimer
 
